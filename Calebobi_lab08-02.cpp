@@ -3,10 +3,10 @@
 // Title:      Best Bugs
 // Course:     CSC 1101
 // Lab Number: 08-02
-// Author:     Dan Ouellette
+// Author:     Caleb Obi
 // Date:       2/11/2019 
 // Description: 
-// C++ console application that calculates and displays the cost of a customer’s purchase of one item.
+// C++ console application that calculates and displays the cost of a customerâ€™s purchase of one item.
 // Prompt for and get from the user the quantity of the item purchased in the range 1-10
 //   
 //
